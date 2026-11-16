@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Habiba 👋
 
-<!--
-**Habiba-elshobaky/Habiba-elshobaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Graduate | Applied AI | Machine Learning | Computer Vision
 
-Here are some ideas to get you started:
+I'm interested in building practical AI systems that solve real-world problems, especially in Applied AI and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Project
+
+"Lumos AI — Team Nova" (https://github.com/AbdullahElrouby750/lumos-AI)
+
+My graduation project, developed collaboratively with Team Nova: an AI-powered assistive technology system designed to support people with visual impairments.
+
+My main contributions focused on the AI components, including work related to:
+
+- Computer Vision
+- Object Detection and Tracking
+- Face Recognition
+- OCR and Text Recognition
+- AI-powered assistive interaction
+
+Areas of Interest
+
+- Applied Artificial Intelligence
+- Machine Learning & Deep Learning
+- Computer Vision
+- Edge AI
+- AI Product Development
+
+Learning by building real-world solutions.
